@@ -1,3 +1,9 @@
+"""
+Name : Lakshya Dubey
+Student ID: 10331244
+Group: Rishi Patel, Bhavya Solanki, Lakshya Dubey 
+"""
+
 import sqlite3
 import pandas as pd
 
